@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+kse_news.jl.gz
+
 # collab
 sample_data
 
